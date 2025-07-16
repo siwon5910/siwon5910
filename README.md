@@ -1,10 +1,21 @@
-# 깃허브 프로필
-최시원
+## 👋 안녕하세요!
 
-## 소개
-상미고 2학년 1반 2학기 학급회장 및
-학생회 홍보부 차장
+**이름** : 시원  
+**나이** : 18  
+**학교** : 상일미디어 고등학교  
+**동아리** : 동내한바퀴 동아리 🛞  
 
+---
+
+## 🎨 전공 & 언어
+
+**전공** : 디지털 디자인  
+
+**배우는 언어** :  
+<img src="https://img.shields.io/badge/한국어-Korean-blue?style=for-the-badge"/>
+
+**그 외 학습 중인 언어** :  
+<img src="https://img.shields.io/badge/일본어-Japanese-red?style=for-the-badge"/>
 
 
 ```py
